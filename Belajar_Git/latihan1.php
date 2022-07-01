@@ -17,7 +17,8 @@ echo "Halo <br/> <br>";
 
 // git status - check file status
 // git add . - tambahkan semua file baru
-// git commit - menjalankan perintah commit untuk pengiriman files ke git
+// git commit -m - menjalankan perintah commit untuk pengiriman files ke git
+// git push
 
 ?>
 
